@@ -252,8 +252,8 @@ const Home=()=>{
             </a>
             <div className="footer-contact pt-3">
              <p>Beirut</p>
-              <p className="mt-3"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
-              <p><strong>Email:</strong> <span>info@example.com</span></p>
+              <p className="mt-3"><strong>Phone:</strong> <span>07 888 112 316</span></p>
+              <p><strong>Email:</strong> <span>info@crebeit.com</span></p>
             </div>
             <div className="social-links d-flex mt-4">
               <a href=""><i className="bi bi-twitter-x"></i></a>
