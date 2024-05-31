@@ -2,9 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+This is a simple react-bs example
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+
 
 ### `npm start`
 
